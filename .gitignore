@@ -1,0 +1,17 @@
+# dependencies and build output
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# local environment and secrets: never commit
+.env
+.env.*
+*.pem
+*.key
+
+# editor / OS noise
+.DS_Store
+.idea/
+.vscode/
+*.log

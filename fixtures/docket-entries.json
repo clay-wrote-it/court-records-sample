@@ -1,0 +1,49 @@
+[
+  {
+    "caseNumber": "SAMPLE-2024-CR-000101",
+    "court": "Sample County General Sessions Court",
+    "filingDate": "03/14/2024",
+    "parties": [
+      { "name": "State of Example", "role": "Plaintiff" },
+      { "name": "PLACEHOLDER, JANE Q.", "role": "Defendant" }
+    ],
+    "description": "Initial appearance scheduled"
+  },
+  {
+    "caseNumber": "sample 2024 cr 101",
+    "court": "Sample County  General Sessions Court",
+    "filingDate": "2024-03-14",
+    "parties": [
+      { "name": "Jane Q. Placeholder", "role": "def" },
+      { "name": "state of example", "role": "plf" }
+    ],
+    "description": "Initial  appearance   scheduled"
+  },
+  {
+    "caseNumber": "SAMPLE-24-CV-77",
+    "court": "Sample County Circuit Court",
+    "filingDate": "7/2/2024",
+    "parties": [
+      { "name": "Example, John, Jr.", "role": "Petitioner" },
+      { "name": "Testcase Holdings LLC", "role": "Respondent" }
+    ],
+    "description": "Petition filed"
+  },
+  {
+    "caseNumber": "SAMPLE-2024-CV-000077",
+    "court": "Sample County Circuit Court",
+    "filingDate": "07/09/2024",
+    "parties": [
+      { "name": "John Example Jr", "role": "Petitioner" },
+      { "name": "Testcase Holdings LLC", "role": "Respondent" }
+    ],
+    "description": "Response filed"
+  },
+  {
+    "caseNumber": "NOT-A-CASE",
+    "court": "Sample County Circuit Court",
+    "filingDate": "02/30/2024",
+    "parties": [{ "name": "Alex Samplerson", "role": "Defendant" }],
+    "description": "Malformed row kept in the fixture on purpose"
+  }
+]
